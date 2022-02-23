@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kristoferohman
-- 👀 I’m interested in learning to code and develop a deeper understanding about the software development lifecycle.
-- 🌱 I’m currently learning how to work with repos.
+- 👀 I’m interested in developing a deeper understanding about the software development lifecycle.
 - 💞️ I’m looking to collaborate on nothing as of now.
 - 📫 You can reach me on twitter handle @kristoferohman or here on GitHub.
 
